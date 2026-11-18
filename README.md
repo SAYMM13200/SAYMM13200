@@ -7,7 +7,7 @@ I am a highly motivated cybersecurity student with a deep passion for Offensive 
 - 🔭 **Current Goal:** Building a solid, hands-on foundation in Penetration Testing (Web & Network) and preparing for advanced Active Directory attacks and Red Teaming. I am actively working towards mastering the concepts required for the OSCP certification.
 - 🌱 **Currently Learning:** Deep diving into Active Directory exploitation, Lateral Movement, and Python automation for security tools.
 - 🏠 **Home Lab:** Building and documenting custom vulnerable environments using VirtualBox (Kali Linux, Windows Server, Metasploitable).
-- 🎯 **CTF Platforms:** Actively solving machines on TryHackMe and Hack The Box.
+- 🎯 **CTF Platforms:** Actively solving machines on TryHackMe .
 
 ---
 
