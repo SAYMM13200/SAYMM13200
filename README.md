@@ -38,5 +38,5 @@ I am a highly motivated cybersecurity student with a deep passion for Offensive 
 ---
 
 📫 **How to reach me:**
-[![X](https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SAYMM13200)
+[![X](https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=X&logoColor=Black)](https://x.com/SAYMM13200)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrnexfade95@gmail.com)
