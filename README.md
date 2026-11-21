@@ -3,7 +3,7 @@
 ### 👨‍💻 Offensive Security Specialis
 
 
-I am a highly motivated cybersecurity enthusiast with a deep passion for offensive security. My journey is focused on mastering the art of ethical hacking, network exploitation, and vulnerability assessment. I believe in "learning by doing," which is why I spend most of my time building home labs, solving CTF challenges, and writing custom scripts.
+I am a Specialis  motivated cybersecurity enthusiast with a deep passion for offensive security. My journey is focused on mastering the art of ethical hacking, network exploitation, and vulnerability assessment. I believe in "learning by doing," which is why I spend most of my time building home labs, solving CTF challenges, and writing custom scripts.
 
 - 🔭 **Current Goal:** To build a solid, practical foundation in penetration testing (web and network) and prepare for advanced Active Directory attacks. I am actively working on mastering the concepts required for the OSCP certification.
 
