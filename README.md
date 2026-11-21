@@ -1,6 +1,6 @@
 # Hi there, I'm Seyed Amir Yousef Mohammadi Mousavi 👋
 
-### 👨‍💻 Aspiring Penetration Tester | Cybersecurity Enthusiast
+### 👨‍💻 Offensive Security Specialist
 
 I am a highly motivated cybersecurity student with a deep passion for Offensive Security. My journey is focused on mastering the art of ethical hacking, network exploitation, and vulnerability assessment. I believe in "Learning by Doing," which is why I spend most of my time building home labs, solving CTF challenges, and writing custom scripts.
 
