@@ -13,8 +13,10 @@ I am a highly motivated cybersecurity enthusiast with a deep passion for offensi
 
 - 🏠 **Home Lab:** Building and documenting custom vulnerable environments using VirtualBox (Kali Linux, Windows Server, Metasploitable).
 
-- 🎯 **CTF Platforms:** Actively solving machines in the TryHackMeo PentesterLab.
+- 🎯 **CTF Platforms:** Actively solving machines in the TryHackMe and PentesterLab.
+
 ---
+
 ### 🛠️ Technical Tools & Stack
 
 **Operating Systems:**
